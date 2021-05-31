@@ -1,0 +1,7 @@
+[info]
+title=Linter for Raku, using 'raku -c'
+desc=Linter for CudaLint, adds support for Raku lexer, using 'raku -c'.
+type=cudatext-plugin
+subdir=cuda_lint_raku
+homepage=https://github.com/demanuel/cuda_lint_raku
+license: EUPL-1.2

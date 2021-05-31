@@ -1,0 +1,11 @@
+Linter for CudaLint plugin.
+It adds support for Raku lexer.
+
+'raku' must be in your system PATH.
+
+Author: David Santiago
+
+Heavily based on code from project cuda_lint_perl:
+https://github.com/medvosa/cuda_lint_perl
+
+License: MIT
